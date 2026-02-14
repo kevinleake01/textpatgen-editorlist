@@ -10,6 +10,7 @@ For links to the the Text Pattern Generator, see:<br>
 https://github.com/kevinleake01/textpatgen<br>
 https://github.com/kevinleake01/textpatgen-golang<br>
 https://github.com/kevinleake01/textpatgen-neovim<br>
+https://github.com/kevinleake01/textpatgen-quickscripts<br>
 
 Happy Editing!! :-)<br>
 
