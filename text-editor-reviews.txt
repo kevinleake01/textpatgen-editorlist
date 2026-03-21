@@ -7,6 +7,9 @@ Here is a list of reviews for some of the best text editors for Linux.
 ------------------------------------------
 --- VIM / NEOVIM ---
 
+https://www.vim.org/
+https://neovim.io/
+
 Pros:
 + The Number One text editor for Linux
 + Very Popular and widely available across several platforms
@@ -19,6 +22,8 @@ Cons:
 ------------------------------------------
 --- EMACS ---
 
+https://www.gnu.org/software/emacs/
+
 Pros:
 + Very popular and widely available
 + Allows editing using Vi modal commands, using Viper or Evil-Mode
@@ -29,6 +34,8 @@ Cons:
 
 ------------------------------------------
 --- NANO ---
+
+https://www.nano-editor.org/
 
 Pros:
 + Very popular and widely available
@@ -41,8 +48,10 @@ Cons:
 ------------------------------------------
 --- HELIX ---
 
+https://helix-editor.com/
+
 Pros:
-+ Uses Model Editing, suitable for Vim/Neovim users
++ Uses Modal Editing, suitable for Vim/Neovim users
 
 Cons:
 - Commands are not 100% compatible with Vim/NeoVim
@@ -51,16 +60,20 @@ Cons:
 ------------------------------------------
 --- MICRO ---
 
+https://micro-editor.github.io/
+
 Pros:
 + Uses IBM Common User Access standard for keybindings
 + Targets Nano users for a better editing experience
 + Uses Lua for plugins and configuration
 
 Cons:
-- Should be used within a terminal emulator from X or Wayland
+- Should be used within a terminal emulator from X or Wayland, because of problems with <Shift><Arrows>
 
 ------------------------------------------
 --- FRESH ---
+
+https://getfresh.dev/
 
 Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
@@ -72,4 +85,57 @@ Cons:
 - As this is a new editor, expect a few bugs
 
 ------------------------------------------
+--- CODE::BLOCKS ---
+
+https://www.codeblocks.org/
+
+Pros:
++ One of the best code editors if using C and C++
++ Uses IBM Common User Access standard for keybindings
+
+Cons:
+- Targets C and C++ programmers only
+
+------------------------------------------
+--- GEANY ---
+
+https://www.geany.org/
+
+Pros:
++ The Number One IDE code editor using the GTK GUI Platform
++ Very easy for beginners and first time users
++ Uses IBM Common User Access standard for keybindings
+
+Cons:
+- None!  :-)
+
+------------------------------------------
+--- KDEVELOP / KATE ---
+
+https://kdevelop.org/
+https://kate-editor.org/
+
+Pros:
++ The best IDE code editors using the QT GUI Platform
++ Very easy for beginners and first time users
++ Uses IBM Common User Access standard for keybindings
+
+Cons:
+- None!  :-)
+
+------------------------------------------
+--- LIBREOFFICE ---
+
+https://www.libreoffice.org/
+
+Pros:
++ The Number One Word Processor for Linux
++ Very easy for beginners and first time users
++ Uses IBM Common User Access standard for keybindings
+
+Cons:
+- You cannot do IDE code editing, because this is a Word Processor!  ;-)
+
+------------------------------------------
+
 
