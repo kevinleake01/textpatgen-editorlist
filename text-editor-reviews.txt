@@ -27,6 +27,7 @@ https://www.gnu.org/software/emacs/
 Pros:
 + Very popular and widely available
 + Allows editing using Vi modal commands, using Viper or Evil-Mode
++ Easy configuration and plugins using Emacs Lisp (Elisp)
 
 Cons:
 - Can be difficult for beginners and first time users
@@ -44,6 +45,19 @@ Pros:
 Cons:
 - Non-Standard and limited keybindings
 - Unsuitable for use as a code editor for IDE productivity
+
+------------------------------------------
+--- NE (The Nice Editor) ---
+
+https://github.com/vigna/ne
+
+Pros:
++ Very easy for beginners and first time users
++ Uses IBM Common User Access standard for keybindings
++ Targets Nano users for a better editing experience
+
+Cons:
+- Not shipped by default on most Linux Distros
 
 ------------------------------------------
 --- HELIX ---
@@ -85,6 +99,19 @@ Cons:
 - As this is a new editor, expect a few bugs
 
 ------------------------------------------
+--- LITE XL ---
+
+https://lite-xl.com/
+
+Pros:
++ Uses IBM Common User Access standard for keybindings
++ Uses Lua for plugins and configuration
++ Has an integrated file browser by default
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+------------------------------------------
 --- CODE::BLOCKS ---
 
 https://www.codeblocks.org/
@@ -110,15 +137,17 @@ Cons:
 - None!  :-)
 
 ------------------------------------------
---- KDEVELOP / KATE ---
+--- KDEVELOP / KATE / KWRITE ---
 
 https://kdevelop.org/
 https://kate-editor.org/
+https://apps.kde.org/kwrite/
 
 Pros:
 + The best IDE code editors using the QT GUI Platform
 + Very easy for beginners and first time users
 + Uses IBM Common User Access standard for keybindings
++ Allows editing using Vi modal commands
 
 Cons:
 - None!  :-)
