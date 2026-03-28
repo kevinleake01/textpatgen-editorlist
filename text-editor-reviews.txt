@@ -53,8 +53,20 @@ https://github.com/vigna/ne
 
 Pros:
 + Very easy for beginners and first time users
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano users for a better editing experience
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+------------------------------------------
+--- JOE'S OWN EDITOR ---
+
+https://github.com/joe-editor/joe
+
+Pros:
++ Very easy for beginners and first time users
++ Has support for CP/M WordStar keybindings
 
 Cons:
 - Not shipped by default on most Linux Distros
@@ -77,7 +89,7 @@ Cons:
 https://micro-editor.github.io/
 
 Pros:
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano users for a better editing experience
 + Uses Lua for plugins and configuration
 
@@ -91,7 +103,7 @@ https://getfresh.dev/
 
 Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano and Micro users for a better editing experience
 + Allows editing using Vi modal commands
 
@@ -104,7 +116,7 @@ Cons:
 https://lite-xl.com/
 
 Pros:
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 + Uses Lua for plugins and configuration
 + Has an integrated file browser by default
 
@@ -118,7 +130,7 @@ https://www.codeblocks.org/
 
 Pros:
 + One of the best code editors if using C and C++
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 
 Cons:
 - Targets C and C++ programmers only
@@ -131,7 +143,7 @@ https://www.geany.org/
 Pros:
 + The Number One IDE code editor using the GTK GUI Platform
 + Very easy for beginners and first time users
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 
 Cons:
 - None!  :-)
@@ -146,11 +158,24 @@ https://apps.kde.org/kwrite/
 Pros:
 + The best IDE code editors using the QT GUI Platform
 + Very easy for beginners and first time users
-+ Uses IBM Common User Access standard for keybindings
-+ Allows editing using Vi modal commands
++ Uses most of the editing standards from MS Windows for keybindings
++ Allows editing using Vi modal commands as an option
 
 Cons:
 - None!  :-)
+
+------------------------------------------
+--- ZED ---
+
+https://zed.dev/
+
+Pros:
++ One of the more advanced free and open-source IDE code editors
++ Has many features, and this includes AI
++ Allows editing using Vi modal commands as an option
+
+Cons:
+- Uses GPU-accelerated hardware that will not run on older Desktops and Laptops
 
 ------------------------------------------
 --- LIBREOFFICE ---
@@ -160,7 +185,7 @@ https://www.libreoffice.org/
 Pros:
 + The Number One Word Processor for Linux
 + Very easy for beginners and first time users
-+ Uses IBM Common User Access standard for keybindings
++ Uses most of the editing standards from MS Windows for keybindings
 
 Cons:
 - You cannot do IDE code editing, because this is a Word Processor!  ;-)
