@@ -1,0 +1,185 @@
+-------------------------------
+----- CODE EDITOR REVIEWS -----
+-------------------------------
+
+Here is a list of reviews for some of the best code editors for Linux.
+
+------------------------------------------
+--- VIM / NEOVIM ---
+
+https://www.vim.org/
+https://neovim.io/
+
+Pros:
++ The Number One text editor for Linux
++ Very Popular and widely available across several platforms
++ Very large number of controls and commands thanks to Modal Editing
++ Easy configuration using Vimscript (Vim) and Lua (NeoVim)
+
+Cons:
+- Can be difficult for beginners and first time users
+
+------------------------------------------
+--- EMACS ---
+
+https://www.gnu.org/software/emacs/
+
+Pros:
++ Very popular and widely available
++ Allows editing using Vi modal commands, using Viper or Evil-Mode
++ Easy configuration and plugins using Emacs Lisp (Elisp)
+
+Cons:
+- Can be difficult for beginners and first time users
+- Has multiple and complex keybinding controls to perform a single command
+
+------------------------------------------
+--- HELIX ---
+
+https://helix-editor.com/
+
+Pros:
++ Uses Modal Editing, suitable for Vim/Neovim users
+
+Cons:
+- Commands are not 100% compatible with Vim/NeoVim
+- Configuration is limited to a few TOML files, and does not support plugins
+
+------------------------------------------
+--- FRESH ---
+
+https://getfresh.dev/
+
+Pros:
++ One of the newest text editors (Created Late 2025 / Early 2026)
++ Uses most of the editing standards from MS Windows for keybindings
++ Targets Nano and Micro users for a better editing experience
++ Allows editing using Vi modal commands
+
+Cons:
+- As this is a new editor, expect a few bugs
+
+------------------------------------------
+--- TEXTADEPT ---
+
+https://orbitalquark.github.io/textadept/
+
+Pros:
++ Uses most of the editing standards from MS Windows for keybindings
++ Uses Lua for plugins and configuration
++ Has support for both GTK and QT GUI versions, plus a terminal version
+
+Cons:
+- Requires Lua plugins for a basic setup
+- There is no inline help and tutorials within Textadept 
+- The terminal version (Textadept-Curses) can have problems with <Shift><Arrows>
+
+Notes:
+For Vi support:  https://github.com/jugglerchris/textadept-vi
+For Help and Tutorials:  https://orbitalquark.github.io/textadept/manual.html
+
+------------------------------------------
+--- LITE XL ---
+
+https://lite-xl.com/
+
+Pros:
++ Uses most of the editing standards from MS Windows for keybindings
++ Uses Lua for plugins and configuration
++ Has an integrated file browser by default
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+------------------------------------------
+--- CODE::BLOCKS ---
+
+https://www.codeblocks.org/
+
+Pros:
++ One of the best code editors if using C and C++
++ Uses most of the editing standards from MS Windows for keybindings
+
+Cons:
+- Targets C and C++ programmers only
+
+------------------------------------------
+--- GEANY ---
+
+https://www.geany.org/
+
+Pros:
++ The Number One IDE code editor using the GTK GUI Platform
++ Very easy for beginners and first time users
++ Uses most of the editing standards from MS Windows for keybindings
+
+Cons:
+- None!  :-)
+
+------------------------------------------
+--- KDEVELOP / KATE / KWRITE ---
+
+https://kdevelop.org/
+https://kate-editor.org/
+https://apps.kde.org/kwrite/
+
+Pros:
++ The best IDE code editors using the QT GUI Platform
++ Very easy for beginners and first time users
++ Uses most of the editing standards from MS Windows for keybindings
+
+Cons:
+- None!  :-)
+
+------------------------------------------
+--- ZED ---
+
+https://zed.dev/
+
+Pros:
++ One of the more advanced free and open-source IDE code editors
++ Has many features, and this includes AI
++ Allows editing using Vi modal commands as an option
+
+Cons:
+- Uses GPU-accelerated hardware that will not run on older Desktops and Laptops
+
+------------------------------------------
+--- VISUAL STUDIO CODE ---
+
+https://code.visualstudio.com/
+
+Pros:
++ Very professional IDE Code Editor with many features
++ Very popular and widely available with a large community
+
+Cons:
+- Proprietary, not open source
+
+Notes:
+For an open-source version of VSC:  https://vscodium.com/
+
+------------------------------------------
+--- SUBLIME TEXT ---
+
+https://www.sublimetext.com/
+
+Pros:
++ Very professional IDE Code Editor with many features
+
+Cons:
+- Proprietary, and it is not free!  :-(
+
+------------------------------------------
+--- JETBRAINS IDE ---
+
+https://www.jetbrains.com/ides/
+
+Pros:
++ Very professional IDE Code Editor with many features
+
+Cons:
+- Proprietary, and it is not free!  :-(
+
+------------------------------------------
+

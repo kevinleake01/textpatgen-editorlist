@@ -47,6 +47,33 @@ Cons:
 - Unsuitable for use as a code editor for IDE productivity
 
 ------------------------------------------
+--- JED ---
+
+https://www.jedsoft.org/jed/
+
+Pros:
++ Can be extended using S-Lang configurations and plugins
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+Notes:
+You can access many S-Lang scripts from:  https://jedmodes.sourceforge.io/
+
+------------------------------------------
+--- JOE'S OWN EDITOR / JUPP ---
+
+https://github.com/joe-editor/joe
+https://mbsd.evolvis.org/jupp.htm
+
+Pros:
++ Very easy for beginners and first time users
++ Has support for WordStar keybindings (Jstar)
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+------------------------------------------
 --- NE (The Nice Editor) ---
 
 https://github.com/vigna/ne
@@ -55,18 +82,6 @@ Pros:
 + Very easy for beginners and first time users
 + Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano users for a better editing experience
-
-Cons:
-- Not shipped by default on most Linux Distros
-
-------------------------------------------
---- JOE'S OWN EDITOR ---
-
-https://github.com/joe-editor/joe
-
-Pros:
-+ Very easy for beginners and first time users
-+ Has support for CP/M WordStar keybindings
 
 Cons:
 - Not shipped by default on most Linux Distros
@@ -111,71 +126,28 @@ Cons:
 - As this is a new editor, expect a few bugs
 
 ------------------------------------------
---- LITE XL ---
+--- LEAFPAD ---
 
-https://lite-xl.com/
-
-Pros:
-+ Uses most of the editing standards from MS Windows for keybindings
-+ Uses Lua for plugins and configuration
-+ Has an integrated file browser by default
-
-Cons:
-- Not shipped by default on most Linux Distros
-
-------------------------------------------
---- CODE::BLOCKS ---
-
-https://www.codeblocks.org/
+https://github.com/tarot231/leafpad
 
 Pros:
-+ One of the best code editors if using C and C++
++ Very lightweight and basic GTK GUI Editor
 + Uses most of the editing standards from MS Windows for keybindings
 
 Cons:
-- Targets C and C++ programmers only
+- Unsuitable for use as a code editor for IDE productivity
 
 ------------------------------------------
---- GEANY ---
+--- FEATHERPAD ---
 
-https://www.geany.org/
+https://github.com/tsujan/FeatherPad
 
 Pros:
-+ The Number One IDE code editor using the GTK GUI Platform
-+ Very easy for beginners and first time users
++ Very lightweight and basic QT GUI Editor
 + Uses most of the editing standards from MS Windows for keybindings
 
 Cons:
-- None!  :-)
-
-------------------------------------------
---- KDEVELOP / KATE / KWRITE ---
-
-https://kdevelop.org/
-https://kate-editor.org/
-https://apps.kde.org/kwrite/
-
-Pros:
-+ The best IDE code editors using the QT GUI Platform
-+ Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
-+ Allows editing using Vi modal commands as an option
-
-Cons:
-- None!  :-)
-
-------------------------------------------
---- ZED ---
-
-https://zed.dev/
-
-Pros:
-+ One of the more advanced free and open-source IDE code editors
-+ Has many features, and this includes AI
-+ Allows editing using Vi modal commands as an option
-
-Cons:
-- Uses GPU-accelerated hardware that will not run on older Desktops and Laptops
+- Unsuitable for use as a code editor for IDE productivity
 
 ------------------------------------------
 --- LIBREOFFICE ---
