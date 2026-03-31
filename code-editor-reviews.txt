@@ -143,6 +143,7 @@ Pros:
 
 Cons:
 - Uses GPU-accelerated hardware that will not run on older Desktops and Laptops
+- Not 100% open source
 
 ------------------------------------------
 --- VISUAL STUDIO CODE ---
