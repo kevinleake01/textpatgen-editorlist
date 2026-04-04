@@ -47,6 +47,18 @@ Cons:
 - Unsuitable for use as a code editor for IDE productivity
 
 ------------------------------------------
+--- MICRO ---
+
+https://micro-editor.github.io/
+
+Pros:
++ Uses most of the editing standards from MS Windows for keybindings
++ Uses Lua for plugins and configuration
+
+Cons:
+- Reported problems with <Shift><Arrows> on some terminals
+
+------------------------------------------
 --- JED ---
 
 https://www.jedsoft.org/jed/
@@ -81,7 +93,6 @@ https://github.com/vigna/ne
 Pros:
 + Very easy for beginners and first time users
 + Uses most of the editing standards from MS Windows for keybindings
-+ Targets Nano users for a better editing experience
 
 Cons:
 - Not shipped by default on most Linux Distros
@@ -113,19 +124,6 @@ Cons:
 - Configuration is limited to a few TOML files, and does not support plugins
 
 ------------------------------------------
---- MICRO ---
-
-https://micro-editor.github.io/
-
-Pros:
-+ Uses most of the editing standards from MS Windows for keybindings
-+ Targets Nano users for a better editing experience
-+ Uses Lua for plugins and configuration
-
-Cons:
-- Should be used within a terminal emulator from X or Wayland, because of problems with <Shift><Arrows>
-
-------------------------------------------
 --- FRESH ---
 
 https://getfresh.dev/
@@ -134,18 +132,19 @@ Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
 + Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano and Micro users for a better editing experience
-+ Allows editing using Vi modal commands
++ Allows some editing using Vi modal commands
 
 Cons:
-- As this is a new editor, expect a few bugs
+- None!  :-)
 
 ------------------------------------------
---- LEAFPAD ---
+--- LEAFPAD / MOUSEPAD ---
 
 https://github.com/tarot231/leafpad
+https://docs.xfce.org/apps/mousepad/start
 
 Pros:
-+ Very lightweight and basic GTK GUI Editor
++ Very lightweight and basic GTK GUI Editors
 + Uses most of the editing standards from MS Windows for keybindings
 
 Cons:

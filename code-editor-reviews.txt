@@ -54,10 +54,10 @@ Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
 + Uses most of the editing standards from MS Windows for keybindings
 + Targets Nano and Micro users for a better editing experience
-+ Allows editing using Vi modal commands
++ Allows some editing using Vi modal commands
 
 Cons:
-- As this is a new editor, expect a few bugs
+- None!  :-)
 
 ------------------------------------------
 --- TEXTADEPT ---
@@ -71,8 +71,7 @@ Pros:
 
 Cons:
 - Requires Lua plugins for a basic setup
-- There is no inline help and tutorials within Textadept 
-- The terminal version (Textadept-Curses) can have problems with <Shift><Arrows>
+- Reported problems with <Shift><Arrows> on some terminals when using Textadept-curses
 
 Notes:
 For Vi support:  https://github.com/jugglerchris/textadept-vi
