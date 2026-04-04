@@ -87,6 +87,20 @@ Cons:
 - Not shipped by default on most Linux Distros
 
 ------------------------------------------
+--- DINKY ---
+
+https://github.com/sedwards2009/dinky
+
+Pros:
++ Modern text editor with an attractive retro look and feel
++ Very easy for beginners and first time users
++ Uses most of the editing standards from MS Windows for keybindings
++ Targets Nano and Micro users for a better editing experience
+
+Cons:
+- Not shipped by default on most Linux Distros
+
+------------------------------------------
 --- HELIX ---
 
 https://helix-editor.com/
