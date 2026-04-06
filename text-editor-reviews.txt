@@ -5,6 +5,19 @@
 Here is a list of reviews for some of the best text editors for Linux.
 
 ------------------------------------------
+--- ED ---
+
+https://www.gnu.org/software/ed/
+
+Pros:
++ The very first text editor for Unix
++ Possibly the only available editor that will run if your system is in "Rescue Mode"
+
+Cons:
+- Can be difficult for beginners and first time users
+- Only supports line editing functions and commands
+
+------------------------------------------
 --- VIM / NEOVIM ---
 
 https://www.vim.org/
