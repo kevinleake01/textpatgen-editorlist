@@ -11,7 +11,7 @@ https://www.vim.org/
 https://neovim.io/
 
 Pros:
-+ The Number One text editor for Linux
++ The Number One text and code editors for Linux
 + Very Popular and widely available across several platforms
 + Very large number of controls and commands thanks to Modal Editing
 + Easy configuration using Vimscript (Vim) and Lua (NeoVim)
@@ -126,6 +126,7 @@ Pros:
 + The best IDE code editors using the QT GUI Platform
 + Very easy for beginners and first time users
 + Uses most of the editing standards from MS Windows for keybindings
++ Allows editing using Vi modal commands as an option
 
 Cons:
 - None!  :-)
