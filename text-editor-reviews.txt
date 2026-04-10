@@ -12,11 +12,14 @@ https://www.gnu.org/software/ed/
 Pros:
 + The very first text editor for Unix
 + Possibly the only available editor that will run if your system is in "Rescue Mode"
-+ Can also be used with Sed, a stream editor  ( https://www.gnu.org/software/sed/ )
++ Can also be used with Sed, a stream editor
 
 Cons:
 - Can be difficult for beginners and first time users
 - Only supports line editing functions and commands
+
+Notes:
+The website for the stream editor Sed is at:  https://www.gnu.org/software/sed/ 
 
 ------------------------------------------
 --- VIM / NEOVIM ---
@@ -28,7 +31,7 @@ Pros:
 + The Number One text and code editors for Linux
 + Very Popular and widely available across several platforms
 + Very large number of controls and commands thanks to Modal Editing
-+ Easy configuration using Vimscript (Vim) and Lua (NeoVim)
++ Easy configuration and plugins using Vimscript (Vim) and Lua (NeoVim)
 
 Cons:
 - Can be difficult for beginners and first time users
