@@ -12,14 +12,19 @@ https://www.gnu.org/software/ed/
 Pros:
 + The very first text editor for Unix
 + Possibly the only available editor that will run if your system is in "Rescue Mode"
-+ Can also be used with Sed, a stream editor
 
 Cons:
 - Can be difficult for beginners and first time users
 - Only supports line editing functions and commands
+- The stream editors Grep, Sed, and Awk may be required for advanced search and replace
+- Unsuitable for use as a code editor for IDE productivity
 
 Notes:
-The website for the stream editor Sed is at:  https://www.gnu.org/software/sed/ 
+The websites for the stream editors are:
+
+Grep:  https://www.gnu.org/software/grep/
+Sed:   https://www.gnu.org/software/sed/
+Awk:   https://www.gnu.org/software/gawk/
 
 ------------------------------------------
 --- VIM / NEOVIM ---
