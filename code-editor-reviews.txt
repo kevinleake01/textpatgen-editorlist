@@ -26,12 +26,19 @@ https://www.gnu.org/software/emacs/
 
 Pros:
 + Very popular and widely available
-+ Allows editing using Vi modal commands, using Viper or Evil-Mode
++ Allows editing using Vi modal commands, using Viper, or Evil-Mode
++ Also allows editing using IBM/MS CUA Standard keybindings
 + Easy configuration and plugins using Emacs Lisp (Elisp)
 
 Cons:
 - Can be difficult for beginners and first time users
 - Has multiple and complex keybinding controls to perform a single command
+
+Notes:
+To activate the various modes in Emacs:
+Viper:  M-x viper
+Evil-Mode:  M-x evil  (available as a plugin)
+IBM/MS CUA:  M-x cua-mode
 
 ------------------------------------------
 --- HELIX ---
@@ -52,7 +59,7 @@ https://getfresh.dev/
 
 Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Targets Nano and Micro users for a better editing experience
 + Allows some editing using Vi modal commands as an option
 
@@ -65,7 +72,7 @@ Cons:
 https://orbitalquark.github.io/textadept/
 
 Pros:
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Uses Lua for plugins and configuration
 + Has support for both GTK and QT GUI versions, plus a terminal version
 
@@ -83,7 +90,7 @@ For Vi support:  https://github.com/jugglerchris/textadept-vi
 https://lite-xl.com/
 
 Pros:
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Uses Lua for plugins and configuration
 + Has an integrated file browser by default
 
@@ -97,7 +104,7 @@ https://www.codeblocks.org/
 
 Pros:
 + One of the best code editors if using C and C++
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - Targets C and C++ programmers only
@@ -110,7 +117,7 @@ https://www.geany.org/
 Pros:
 + The Number One IDE code editor using the GTK GUI Platform
 + Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - None!  :-)
@@ -128,7 +135,7 @@ https://apps.kde.org/kwrite/
 Pros:
 + The best IDE code editors using the QT GUI Platform
 + Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Allows some editing using Vi modal commands as an option
 
 Cons:

@@ -16,7 +16,7 @@ Pros:
 Cons:
 - Can be difficult for beginners and first time users
 - Only supports line editing functions and commands
-- The stream editors Grep, Sed, and Awk may be required for advanced search and replace
+- For advanced search and replace commands, the stream editors Grep, Sed, and Awk may be required 
 - Unsuitable for use as a code editor for IDE productivity
 
 Notes:
@@ -48,12 +48,20 @@ https://www.gnu.org/software/emacs/
 
 Pros:
 + Very popular and widely available
-+ Allows editing using Vi modal commands, using Viper or Evil-Mode
++ Allows editing using Vi modal commands, using Viper, or Evil-Mode
++ Also allows editing using IBM/MS CUA Standard keybindings
 + Easy configuration and plugins using Emacs Lisp (Elisp)
 
 Cons:
 - Can be difficult for beginners and first time users
 - Has multiple and complex keybinding controls to perform a single command
+
+Notes:
+To activate the various modes in Emacs:
+
+Viper:  M-x viper
+Evil-Mode:  M-x evil  (available as a plugin)
+IBM/MS CUA:  M-x cua-mode
 
 ------------------------------------------
 --- NANO ---
@@ -74,7 +82,7 @@ Cons:
 https://micro-editor.github.io/
 
 Pros:
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Uses Lua for plugins and configuration
 
 Cons:
@@ -114,7 +122,7 @@ https://github.com/vigna/ne
 
 Pros:
 + Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - Not shipped by default on most Linux Distros
@@ -127,7 +135,7 @@ https://github.com/sedwards2009/dinky
 Pros:
 + Modern text editor with an attractive retro look and feel
 + Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Targets Nano and Micro users for a better editing experience
 
 Cons:
@@ -152,7 +160,7 @@ https://getfresh.dev/
 
 Pros:
 + One of the newest text editors (Created Late 2025 / Early 2026)
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 + Targets Nano and Micro users for a better editing experience
 + Allows some editing using Vi modal commands
 
@@ -167,7 +175,7 @@ https://docs.xfce.org/apps/mousepad/start
 
 Pros:
 + Very lightweight and basic GTK GUI Editors
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - Unsuitable for use as a code editor for IDE productivity
@@ -179,7 +187,7 @@ https://github.com/tsujan/FeatherPad
 
 Pros:
 + Very lightweight and basic QT GUI Editor
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - Unsuitable for use as a code editor for IDE productivity
@@ -192,7 +200,7 @@ https://www.libreoffice.org/
 Pros:
 + The Number One Word Processor for Linux
 + Very easy for beginners and first time users
-+ Uses most of the editing standards from MS Windows for keybindings
++ Uses the IBM/MS CUA Standard for keybindings
 
 Cons:
 - You cannot do IDE code editing, because this is a Word Processor!  ;-)
